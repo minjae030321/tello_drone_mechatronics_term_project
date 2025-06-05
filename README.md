@@ -55,7 +55,7 @@
 command = "forward"
 key = command_key_map[command]  # pl.K_UP
 simulate_key_press(key)         # 1초간 전진 후 자동 정지
-
+```
 
 ## 🎥 시연 영상
 
