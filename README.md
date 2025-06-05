@@ -57,3 +57,6 @@ key = command_key_map[command]  # pl.K_UP
 simulate_key_press(key)         # 1초간 전진 후 자동 정지
 
 
+## 🎥 시연 영상
+
+[![Demo Video](https://img.youtube.com/vi/R_OT3s6u5As/hqdefault.jpg)](https://youtu.be/R_OT3s6u5As)
