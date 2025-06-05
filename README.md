@@ -47,18 +47,25 @@
 
 ---
 
-## 🧠 사용 예시
-
-```python
+🧠 사용 예시
+🔧 키 명령 시뮬레이션
+python
+복사
+편집
 command = "forward"
 key = command_key_map[command]  # pl.K_UP
 simulate_key_press(key)         # 1초간 전진 후 자동 정지
-
-🔧 설치 및 실행
+🛠️ 설치 및 실행
 1. 환경 세팅
-
+bash
+복사
+편집
 pip install -r requirements.txt
-
-
 2. 실행
+bash
+복사
+편집
 python final2.py
+✅ 드론은 Tello Wi-Fi에 연결된 상태여야 합니다.
+
+
